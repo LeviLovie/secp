@@ -1,2 +1,2 @@
-# secp
+# SECP
 Secure Easy Communication Protocol
